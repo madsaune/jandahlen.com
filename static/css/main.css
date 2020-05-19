@@ -162,8 +162,7 @@ section h2 {
     font-family: "Patrick Hand";
 }
 
-.fb-page,
-.fb_iframe_widget {
+.events iframe {
     display: block;
     margin: 0 auto;
 }
